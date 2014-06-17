@@ -1,5 +1,6 @@
 .navbar {
 	background-color: #930303;
+	border: 1px solid white;
 }
 
 .navbar-brand {
@@ -11,5 +12,14 @@
 }
 
 .navbar-toggle {
-	border:1px solid transparent;
+	border:1px solid white;
+}
+
+.navbar-nav > li > a {
+  color: white;
+}
+
+.logo {
+	width: 100%;
+	height: 100%;
 }
