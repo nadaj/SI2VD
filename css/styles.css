@@ -1,0 +1,15 @@
+.navbar {
+	background-color: #930303;
+}
+
+.navbar-brand {
+	padding: 0;
+}
+
+.icon-bar {
+	background-color: white;
+}
+
+.navbar-toggle {
+	border:1px solid transparent;
+}
