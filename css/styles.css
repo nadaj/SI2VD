@@ -1,6 +1,8 @@
 .navbar {
 	background-color: #930303;
-	border: 1px solid white;
+	border: 0px;
+	margin-bottom: 0px;
+	border-bottom: 1px solid white;
 }
 
 .navbar-brand {
@@ -15,11 +17,77 @@
 	border:1px solid white;
 }
 
+.navbar-toggle:hover {
+	background-color: #660000;
+}
+
 .navbar-nav > li > a {
   color: white;
 }
 
+.navbar-nav > li > a:hover{
+  background-color: #660000;
+}
+
+.dropdown-menu {
+  background-color: #930303;
+}
+
+.dropdown-menu >li > a {
+	color: white;
+}
+
+.dropdown-menu > li > a:hover {
+  color: white;
+  background-color: #660000;
+}
+
 .logo {
-	width: 100%;
-	height: 100%;
+	width: 246px;
+	height: 50px;
+}
+
+.nav .open>a, .nav .open>a:focus {
+	background-color: #660000;
+}
+
+.nav>li>a:visited {
+	background-color: #930303;
+}
+
+.nav>li>a:hover {
+	background-color: #660000;
+}
+
+.nav>li>a:focus {
+	background-color: #660000;
+}
+
+.navbar {
+	min-width: 341px;
+}
+
+.navbar-text {
+  color: white;
+}
+
+.img-responsive {
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+.active {
+	background-color: #660000;
+}
+
+.breadcrumb {
+	background-color: #930303;
+}
+
+.breadcrumb > li >a {
+  color: white;
+}
+
+.breadcrumb > li + li:before {
+  content: ">";
 }
