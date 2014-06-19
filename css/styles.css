@@ -71,11 +71,6 @@
   color: white;
 }
 
-.img-responsive {
-	margin-top: 0px;
-	padding-top: 0px;
-}
-
 .active {
 	background-color: #660000;
 }
@@ -90,4 +85,17 @@
 
 .breadcrumb > li + li:before {
   content: ">";
+}
+
+.etf {
+	width: 30px;
+	height: 30px;
+}
+
+.foot {
+	padding: 0px;	
+}
+
+.navbar-text {
+	font-size: 11px;
 }
