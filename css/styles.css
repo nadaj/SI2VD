@@ -107,3 +107,33 @@
 .navbar-text {
 	font-size: 11px;
 }
+
+.btn-primary {
+  color: #ffffff;
+  background-color: #333399;
+  border-color: #333399;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  color: #ffffff;
+  background-color: #000066;
+  border-color: #000066;
+}
+
+.sadrzaj {
+	width: auto;
+}
+
+.col-md-4 {
+	text-align: center;
+}
+
+.dugme1 {
+	margin-top: 25px;
+	margin-right: 10px;
+ 	padding: 9px 13px;
+}
