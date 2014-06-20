@@ -84,11 +84,11 @@
 }
 
 .breadcrumb {
-	background-color: #930303;
+	background-color: transparent;
 }
 
 .breadcrumb > li >a {
-  color: white;
+  color: #930303;
 }
 
 .breadcrumb > li + li:before {
@@ -136,4 +136,9 @@
 	margin-top: 25px;
 	margin-right: 10px;
  	padding: 9px 13px;
+}
+
+.wrapper {
+	padding-left: 0px;
+	padding-right: 0px;
 }
