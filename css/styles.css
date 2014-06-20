@@ -47,21 +47,25 @@
 	height: 50px;
 }
 
-.nav .open>a, .nav .open>a:focus {
-	background-color: #660000;
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+    background-color: #930303;
 }
 
-.nav>li>a:visited {
+/*.nav>li>a {
 	background-color: #930303;
-}
+}*/
+
+/*.nav>li>a:visited {
+	background-color: #930303;
+}*/
 
 .nav>li>a:hover {
 	background-color: #660000;
 }
 
-.nav>li>a:focus {
-	background-color: #660000;
-}
+/*.nav>li>a:focus {
+	background-color: #930303;
+}*/
 
 .navbar {
 	min-width: 341px;
@@ -71,7 +75,11 @@
   color: white;
 }
 
-.active {
+/*.active {
+	background-color: #660000;
+}*/
+
+.poz > a {
 	background-color: #660000;
 }
 
