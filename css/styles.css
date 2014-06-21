@@ -66,9 +66,9 @@
 /*.nav>li>a:focus {
 	background-color: #930303;
 }*/
-
+/*341 px*/
 .navbar {
-	min-width: 341px;
+	min-width: 20%;
 }
 
 .navbar-text {
@@ -168,4 +168,12 @@ h2,h3 {
 .list-group-item {
     background-color: #FFF;
     border: 1px solid #930303;;
+}
+
+.fajlovi > p > a {
+	color: #333;
+}
+
+.fajlovi > p > a:hover {
+	background-color: #eee;
 }
