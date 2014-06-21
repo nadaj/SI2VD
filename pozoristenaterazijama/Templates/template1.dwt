@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Pozorište na Terazijama/istorija.html</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<link href="../css/bootstrap.css" rel="stylesheet"/>
+	<link href="../css/styles.css" rel="stylesheet"/>
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+</head>
+<body>
+	<!-- HEADER -->
+	<div class ="wrap">
+	<div class="navbar navbar-static-top"> 
+		<div class="container">
+
+			<a href="#" class="navbar-brand navbar-left"><img src="../img/logo.png" class="logo" /></a>
+
+			<button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+
+			<div class="collapse navbar-collapse navHeaderCollapse">
+				<!-- TemplateBeginEditable name="meni" --><ul class="nav navbar-nav navbar-right">
+					<li><a href="../index.html">Početna</a></li>		
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Repertoar</a>
+						<ul class="dropdown-menu">
+							<li><a href="../velscena.html">Velika Scena</a></li>
+							<li><a href="../kabscena.html">Kabaretska scena „Milenko Zablaćanski“</a></li>
+						</ul>
+					</li>					
+					<li><a href="../galerija.html">Galerija</a></li>
+					<li class="dropdown active">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">O nama</a>
+						<ul class="dropdown-menu">
+							<li class="active"><a href="../istorija.html">Istorija pozorišta</a></li>
+							<li><a href="../lokacija.html">Lokacija</a></li>
+							<li><a href="../ansambli.html">Ansambli</a></li>
+							<li><a href="../izvestaj.html">Izveštaj o radu</a></li>
+							<li><a href="#kviz" data-toggle="modal">Kviz</a></li>
+							<li><a href="../kontakt.html">Kontakt</a></li>
+						</ul>
+					</li>					
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">English<b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li><a href="#">Srpski</a></li>
+							<li><a href="#">English</a></li>
+						</ul>
+					</li>					
+				</ul><!-- TemplateEndEditable -->
+			</div>
+		</div>
+	</div>
+	<!-- HEADER -->
+
+	<!-- BREADCRUMBS --><!-- TemplateBeginEditable name="breadc" -->
+	<div class="container wrapper">
+	  <ol class="breadcrumb">
+	    <li><a href="../index.html">Početna</a></li>
+	    <li><a href="../istorija.html">Istorija pozorišta</a></li>
+      </ol>
+    </div>
+	<!-- TemplateEndEditable --><!-- BREADCRUMBS -->
+
+	<!--SADRZAJ STRANICE -->	
+  <div class="container">
+		<div class="row">
+			<div class="col-lg-9">
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<div class="page-header">
+							<!-- TemplateBeginEditable name="naslovsadrzaja" --><h2>ISTORIJA POZORIŠTA</h2><!-- TemplateEndEditable -->
+						</div>
+			    <!-- TemplateBeginEditable name="sadrzaj" -->
+						<p>Pozorište na Terazijama je osnovano 1949. godine kao „Humorističko pozorište“ stalna, repertoarska ustanova pozorišne kulture, muzičkog i komedijskog žanra. Od 1954. do 1959. godine zove se „Beogradska komedija“. Spajanjem sa Beogradskim dramskim pozorištem 1959. godine dobija ime „Savremeno pozorište“. Konačno, u pozorišnoj sezoni 1975/76 ponovo postaje samostalno i dobija sadašnje ime „Pozorište na Terazijama“.
+						  Kao jedinstveno pozorište u našoj zemlji ima stalni administrativno-tehnički i izvođački sastav koji čine: glumački, baletski, horski i orkestarski ansambl, ukupno oko 200 ljudi, kao i veći broj spoljnih saradnika širokog spektra umetničkih i scenskih delatnosti. Tokom više od pola veka postojanja, uvek odlično prihvaćeno od strane najšire publike, ali i kritike, Pozorište na Terazijama je svojom doslednom repertoarskom politikom pratilo zbivanja na svetskoj muzičkoj i komediografskoj sceni. Posebno se neguje i razvija domaće dramsko stvaralaštvo, komedije, operete i muzički komadi ("Stolica koja se ljulja“, „Splitski akvarel“, „Ubi il ' poljubi“, „Mala Florami“...), kao i svetske hitove ("Oklahoma“, „Priča sa zapadne strane“, „Helo Doli“, „Violinista na krovu“, „Cigani lete u nebo“, „Čovek od La Manče“, „Moja ljupka dama“, „Kabare“, „Neki to vole vruće“...).
+						  Poslednjnih godina, repertoarska delatnost Pozorišta na Terazijama doživljava ubrzan umetnički i marketinški uspeh. Izuzetnu gledanost postižu komedije „Dr“, „Paradoks“, zatim mjuzikl „Neki to vole vruće“, dok su „Lutka sa naslovne strane“, „Jubilej“ (apsolutni pobednik Dana komedije u Jagodini 2000.), „Briljantin“, „Golje“ i „Poljubi me Kejt“ već postali kultni pozorišni događaji, za kojima interesovanje postoji i van granica naše zemlje. <br />
+						  Po otvaranju posle rekonstrukcije godine 2005. je Pozorište u savremenoj sali doživelo procvat sa mjuziklima `Čikago`, `Cigani lete u nebo`, gde su značajan udeo imali glumci, pevači i plesači Jelena Jovičić , Ivana Knežević , Mina Lazarević, Katarina Gojković, Sloboda Mićalović, Dragan Vujić, Miroljub Turajlija, Ivan Bosiljčić, Danica Arapović, Tamara Martinović, Milica Pavlović, Katarina Čanković, Elena Vesković, Milan Gromilić, Slobodan Stefanović, Janoš Tot i mnogi drugi. Predstave su rasprodate, a za neke komade se govori da su najbolja izvođenja u svetu.</p>
+						<!-- TemplateEndEditable --></div>
+				</div>
+			</div>
+			<!-- TemplateBeginEditable name="baner" -->
+			<div class="col-lg-3">
+			  <div class="list-group">
+			    <!--moze active da se doda u a ispod-->
+			    <a href="#" class="list-group-item">
+			      <h4 class="list-group-item-heading">Naslov banera</h4>
+			      <p class="list-group-item-text">Tekst </p>
+		        </a></div>
+		    </div>
+			<!-- TemplateEndEditable --></div>
+	</div>
+	<!--SADRZAJ STRANICE -->
+	<div class = "push">&nbsp;<br />&nbsp;<br />&nbsp;</div>
+</div>
+	<!-- FOOTER -->
+	<div class="navbar">
+		<div class="container">
+			<button class="navbar-toggle foot" data-toggle="collapse" data-target=".navFooterCollapse">
+				<img class="etf" src="../img/etf-beograd.jpg"/>
+			</button>
+			<div class="collapse navbar-collapse navFooterCollapse">
+			<p class ="navbar-text pull-left">Copyright&#169; 2014</p>
+			<p class ="navbar-text pull-right">Ivan Dimitrov i Nada Janković, Odsek za Softversko inženjerstvo Elektrotehničkog fakuteta Univerziteta u Beogradu</p>
+			</div>
+		</div>
+	</div>
+	<!-- FOOTER -->
+	<!--MODAL-->
+	<div class="modal fade" id="kviz" role="dialog">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h4>Kviz</h4>
+				</div>
+				<div class="modal-body">
+					<p>Pitanja</p>
+				</div>
+				<div class="modal-footer">
+					<a class="btn btn-default" href="#" data-dismiss="modal">Close</a>
+					<a class="btn btn-primary" href="#" data-dismiss="modal">Close</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--MODAL-->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="../js/jquery-1.10.0.min.js" type="text/javascript"></script>
+	<script src="../js/bootstrap.js"></script>
+</body>
+</html>
