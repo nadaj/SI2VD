@@ -177,3 +177,7 @@ h2,h3 {
 .fajlovi > p > a:hover {
 	background-color: #eee;
 }
+
+.mejlovi > a:hover {
+	background-color: #eee;	
+}
