@@ -157,6 +157,10 @@
     border-color: #930303;
 }
 
+h1 {
+	font-family: Georgia;
+}
+
 h2,h3 {
 	font-family: Book Antiqua;
 }
