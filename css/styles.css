@@ -142,3 +142,26 @@
 	padding-left: 0px;
 	padding-right: 0px;
 }
+
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover, 
+.dropdown-menu > .active > a:focus {
+	background-color: #660000;
+}
+
+.page-header {
+    border-bottom: 1px solid #930303;
+}
+
+.panel-default {
+    border-color: #930303;
+}
+
+h3 {
+	font-family: Book Antiqua;
+}
+
+.list-group-item {
+    background-color: #FFF;
+    border: 1px solid #930303;;
+}
