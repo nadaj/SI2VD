@@ -118,8 +118,27 @@
 					<h4>Koliko poznajete naše pozorište?</h4>
 				</div>
 				<div class="modal-body">
-					<p>Pitanja</p>
-				</div>
+					<p>1. Od 1954. do 1959. godine Pozorište na Terazijama se zvalo: </p>
+                    <hr>
+                    <p>2. Spajanjem sa Beogradskim dramskim pozorištem 1959. godine dobija ime </p>
+                    <hr>
+                    <p>3. Koji su se svetski hitovi od ponuđenih prikazivali u našem pozorištu: </p>
+                    <hr>
+                    <p>4. Apsolutni pobednik Dana komedije u Jagodini 2000. godine bila je predstava: </p>
+                    <hr>
+                    <p>5. Koje godine je naše pozorište rekonstruisano?</p>
+                    <hr>
+                    <p>6. Ko glumi Lojka – Zobara u predstavi "Cigani lete u nebo"?</p>
+                    <hr>
+                    <p>7. Od ponuđenih muzičkih hitova koji je bio deo predstave "Čikago"?</p>
+                    <hr>
+                    <p>8. Kada se osnovalo naše pozorište?</p>
+                    <hr>
+                    <p>9. Da li imamo svoj orkestar?</p>
+                    <hr>
+                    <p>10. Najduže igranu predstavu na repertoaru Pozorišta na Terazijama je: </p>
+                    <hr>
+				</div>  
 				<div class="modal-footer">
 					<a class="btn btn-default" href="#" data-dismiss="modal">Close</a>
 					<a class="btn btn-primary" href="#" data-dismiss="modal">Close</a>
