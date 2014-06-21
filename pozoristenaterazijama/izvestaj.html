@@ -8,6 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	<link href="css/bootstrap.css" rel="stylesheet"/>
 	<link href="css/styles.css" rel="stylesheet"/>
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
 	<!-- InstanceBeginEditable name="head" -->
 	<!-- InstanceEndEditable -->
 </head>
@@ -141,15 +142,60 @@
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4>Koliko poznajete naše pozorište?</h4>
+					<h4 class="kviz">Koliko poznajete naše pozorište?</h4>
 				</div>
-				<div class="modal-body">
-					<p>Pitanja</p>
+				<div class="modal-body"><form name="pageForm">
+					<p><i>1. Od 1954. do 1959. godine Pozorište na Terazijama se zvalo: </i><br />
+                    <br /><input class="form-control" name="odg1" type="text" placeholder="Unesite odgovor:" /></p>
                     <hr>
-				</div>                
+                    <p><i>2. Spajanjem sa Beogradskim dramskim pozorištem 1959. godine dobija ime </i><br />
+                    <br /><input class="form-control" name="odg2" type="text" placeholder="Unesite odgovor:" /></p>
+                    <hr>
+                    <p><i>3. Koji su se svetski hitovi od ponuđenih prikazivali u našem pozorištu: </i><br />
+                     <br /><input name="odg3" type="checkbox" checked="true" /> <i>Beli golub</i><br />
+                    <input name="odg3" type="checkbox" /> <i>Čovek od La Manče</i><br />
+                    <input name="odg3" type="checkbox" /> <i>Kapetan Nimo</i><br />
+                    <input name="odg3" type="checkbox" /> <i>Kabare</i></p>
+                    <hr>
+                    <p><i>4. Apsolutni pobednik Dana komedije u Jagodini 2000. godine bila je predstava: </i><br />
+                    <br /><input class="form-control" name="odg4" type="text" placeholder="Unesite odgovor:" /></p>
+                    <hr>
+                    <p><i>5. Koje godine je naše pozorište rekonstruisano?</i><br />
+                    <br /><input name="odg5" type="radio" checked="true" /> <i>2002</i><br />
+                    <input name="odg5" type="radio" /> <i>2003</i><br />
+                    <input name="odg5" type="radio" /> <i>2004</i><br />
+                    <input name="odg5" type="radio" /> <i>2005</i></p>
+                    <hr>
+                    <p><i>6. Ko glumi Lojka – Zobara u predstavi "Cigani lete u nebo"?</i><br />
+                    <br /><input class="form-control" name="odg6" type="text" placeholder="Unesite odgovor:" /></p>
+                    <hr>
+                    <p><i>7. Od ponuđenih muzičkih hitova koji je bio deo predstave "Čikago"?</i><br />
+                     <br /><input name="odg7" type="radio" checked="true" /> <i>Moj Čikago</i><br />
+                    <input name="odg7" type="radio" /> <i>Sav taj džez</i><br />
+                    <input name="odg7" type="radio" /> <i>Blud grada Čikaga</i><br />
+                    <input name="odg7" type="radio" /> <i>Velma</i></p>
+                    <hr>
+                    <p><i>8. Kada se osnovalo naše pozorište?</i><br />
+                    <br /><input name="odg8" type="radio" checked="true" /> <i>1949</i><br />
+                    <input name="odg8" type="radio" /> <i>1933</i><br />
+                    <input name="odg8" type="radio" /> <i>1944</i><br />
+                    <input name="odg8" type="radio" /> <i>1999</i></p>
+                    <hr>
+                    <p><i>9. Da li imamo svoj orkestar?</i><br />
+                    <br /><input name="odg9" type="radio" checked="true" /> <i>Da</i><br />
+                    <input name="odg9" type="radio" /> <i>Ne</i></p>
+                    <hr>
+                    <p><i>10. Najduže igranu predstavu na repertoaru Pozorišta na Terazijama je: </i><br />
+                    <br /><input name="odg10" type="radio" checked="true" /> <i>Čikago</i><br />
+                    <input name="odg10" type="radio" /> <i>Producenti</i><br />
+                    <input name="odg10" type="radio" /> <i>Viktor Viktorija</i><br />
+                    <input name="odg10" type="radio" /> <i>Neki to vole vruće</i></p>
+                    <hr>
+				</form></div>      
+                <div id = "alert_placeholder"></div>            
 				<div class="modal-footer">
-					<a class="btn btn-default" href="#" data-dismiss="modal">Close</a>
-					<a class="btn btn-primary" href="#" data-dismiss="modal">Close</a>
+					<a class="btn btn-default" href="#" onclick="resetuj()" data-dismiss="modal">Zatvori</a>
+					<a class="btn btn-primary" href="#" onclick="potvrdi();">Potvrdi</a>
 				</div>
 			</div>
 		</div>
@@ -158,5 +204,6 @@
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="js/jquery-1.10.0.min.js" type="text/javascript"></script>
 	<script src="js/bootstrap.js"></script>
+    <script src="js/kviz.js"></script>
 </body>
 <!-- InstanceEnd --></html>

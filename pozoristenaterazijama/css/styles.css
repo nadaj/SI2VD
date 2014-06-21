@@ -200,3 +200,31 @@ h2,h3 {
 .mejlovi > a:hover {
 	background-color: #eee;	
 }
+
+hr {
+	border-color: #333399;
+}
+
+.modal-header {
+  border-bottom: 1px solid #333399;
+}
+
+.modal-footer {
+  border-top: 1px solid #333399;
+}
+
+.form-control {
+	width: 60%;
+}
+
+.kviz {
+	font-weight:bolder;
+	font-size:18px;	
+	font-family: Georgia;
+}
+
+.form-control:focus {
+  border-color: #333399;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(51, 51, 153, 0.6);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(51, 51, 153, 0.6);
+}
