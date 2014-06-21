@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html><!-- InstanceBegin template="/Templates/template1.dwt" codeOutsideHTMLIsLocked="false" -->
+<html>
 <head>
-<!-- InstanceBeginEditable name="doctitle" -->
-<title>Pozorište na Terazijama/kabscena.html</title>
-<!-- InstanceEndEditable -->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Pozorište na Terazijama/istorija.html</title>
+<!-- TemplateEndEditable -->
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	<link href="css/bootstrap.css" rel="stylesheet"/>
-	<link href="css/styles.css" rel="stylesheet"/>
-	<!-- InstanceBeginEditable name="head" -->
-	<!-- InstanceEndEditable -->
+	<link href="../pozoristenaterazijama/css/bootstrap.css" rel="stylesheet"/>
+	<link href="../pozoristenaterazijama/css/styles.css" rel="stylesheet"/>
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
 </head>
 <body>
 	<!-- HEADER -->
@@ -17,7 +17,7 @@
 	<div class="navbar navbar-static-top"> 
 		<div class="container">
 
-			<a href="#" class="navbar-brand navbar-left"><img src="img/logo.png" class="logo" /></a>
+			<a href="#" class="navbar-brand navbar-left"><img src="../pozoristenaterazijama/img/logo.png" class="logo" /></a>
 
 			<button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
 				<span class="icon-bar"></span>
@@ -26,25 +26,25 @@
 			</button>
 
 			<div class="collapse navbar-collapse navHeaderCollapse">
-				<!-- InstanceBeginEditable name="meni" --><ul class="nav navbar-nav navbar-right">
-					<li><a href="index.html">Početna</a></li>		
-					<li class="dropdown active">
+				<!-- TemplateBeginEditable name="meni" --><ul class="nav navbar-nav navbar-right">
+					<li><a href="../pozoristenaterazijama/index.html">Početna</a></li>		
+					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Repertoar</a>
 						<ul class="dropdown-menu">
-							<li><a href="velscena.html">Velika Scena</a></li>
-							<li class="active"><a href="kabscena.html">Kabaretska scena „Milenko Zablaćanski“</a></li>
+							<li><a href="../pozoristenaterazijama/velscena.html">Velika Scena</a></li>
+							<li><a href="../pozoristenaterazijama/kabscena.html">Kabaretska scena „Milenko Zablaćanski“</a></li>
 						</ul>
 					</li>					
-					<li><a href="galerija.html">Galerija</a></li>
-					<li class="dropdown">
+					<li><a href="../pozoristenaterazijama/galerija.html">Galerija</a></li>
+					<li class="dropdown active">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">O nama</a>
 						<ul class="dropdown-menu">
-							<li><a href="istorija.html">Istorija pozorišta</a></li>
-							<li><a href="lokacija.html">Lokacija</a></li>
-							<li><a href="ansambli.html">Ansambli</a></li>
-							<li><a href="izvestaj.html">Izveštaj o radu</a></li>
+							<li class="active"><a href="../pozoristenaterazijama/istorija.html">Istorija pozorišta</a></li>
+							<li><a href="../pozoristenaterazijama/lokacija.html">Lokacija</a></li>
+							<li><a href="../pozoristenaterazijama/ansambli.html">Ansambli</a></li>
+							<li><a href="../pozoristenaterazijama/izvestaj.html">Izveštaj o radu</a></li>
 							<li><a href="#kviz" data-toggle="modal">Kviz</a></li>
-							<li><a href="kontakt.html">Kontakt</a></li>
+							<li><a href="../pozoristenaterazijama/kontakt.html">Kontakt</a></li>
 						</ul>
 					</li>					
 					<li class="dropdown">
@@ -54,20 +54,20 @@
 							<li><a href="#">English</a></li>
 						</ul>
 					</li>					
-				</ul><!-- InstanceEndEditable -->
+				</ul><!-- TemplateEndEditable -->
 			</div>
 		</div>
 	</div>
 	<!-- HEADER -->
 
-	<!-- BREADCRUMBS --><!-- InstanceBeginEditable name="breadc" -->
+	<!-- BREADCRUMBS --><!-- TemplateBeginEditable name="breadc" -->
 	<div class="container wrapper">
 	  <ol class="breadcrumb">
-	    <li><a href="index.html">Početna</a></li>
-	    <li><a href="kabscena.html">Kabaretska scena "Milenko Zablaćanski"</a></li>
+	    <li><a href="../pozoristenaterazijama/index.html">Početna</a></li>
+	    <li><a href="../pozoristenaterazijama/istorija.html">Primer stranice</a></li>
       </ol>
     </div>
-	<!-- InstanceEndEditable --><!-- BREADCRUMBS -->
+	<!-- TemplateEndEditable --><!-- BREADCRUMBS -->
 
 	<!--SADRZAJ STRANICE -->	
   <div class="container">
@@ -76,14 +76,14 @@
 				<div class="panel panel-default">
 					<div class="panel-body">
 						<div class="page-header">
-							<!-- InstanceBeginEditable name="naslovsadrzaja" --><h2>KABARETSKA SCENA "MILENKO ZABLAĆANSKI"</h2><!-- InstanceEndEditable -->
+							<!-- TemplateBeginEditable name="naslovsadrzaja" --><h2>NASLOV</h2><!-- TemplateEndEditable -->
 						</div>
-			    <!-- InstanceBeginEditable name="sadrzaj" -->
-						
-						<!-- InstanceEndEditable --></div>
+			    <!-- TemplateBeginEditable name="sadrzaj" -->
+						<p>Tekst</p>
+						<!-- TemplateEndEditable --></div>
 				</div>
 			</div>
-			<!-- InstanceBeginEditable name="baner" -->
+			<!-- TemplateBeginEditable name="baner" -->
 			<div class="col-lg-3">
 			  <div class="list-group">
 			    <!--moze active da se doda u a ispod-->
@@ -92,7 +92,7 @@
 			      <p class="list-group-item-text">Tekst </p>
 		        </a></div>
 		    </div>
-			<!-- InstanceEndEditable --></div>
+			<!-- TemplateEndEditable --></div>
 	</div>
 	<!--SADRZAJ STRANICE -->
 	<div class = "push">&nbsp;<br />&nbsp;<br />&nbsp;</div>
@@ -101,7 +101,7 @@
 	<div class="navbar">
 		<div class="container">
 			<button class="navbar-toggle foot" data-toggle="collapse" data-target=".navFooterCollapse">
-				<img class="etf" src="img/etf-beograd.jpg"/>
+				<img class="etf" src="../pozoristenaterazijama/img/etf-beograd.jpg"/>
 			</button>
 			<div class="collapse navbar-collapse navFooterCollapse">
 			<p class ="navbar-text pull-left">Copyright&#169; 2014</p>
@@ -130,7 +130,7 @@
 	</div>
 	<!--MODAL-->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<script src="js/jquery-1.10.0.min.js" type="text/javascript"></script>
-	<script src="js/bootstrap.js"></script>
+	<script src="../pozoristenaterazijama/js/jquery-1.10.0.min.js" type="text/javascript"></script>
+	<script src="../pozoristenaterazijama/js/bootstrap.js"></script>
 </body>
-<!-- InstanceEnd --></html>
+</html>
