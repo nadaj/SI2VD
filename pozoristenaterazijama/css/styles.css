@@ -1,6 +1,13 @@
 html, body {
 	height:100%;
 }
+iframe, object, embed { width: 100%; }
+						.bord{
+	border:1px solid #930303;
+	padding-left: 0px;
+	padding-right: 1px;
+	margin-bottom: 15px;
+}
 .wrap {
 	min-height: 100%;
 	height: auto !important;
