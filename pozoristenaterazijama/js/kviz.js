@@ -99,3 +99,7 @@ function potvrdien() {
 function posalji() {
 	alert("Uspesno ste poslali vašu rezervaciju! Dođite 30 min pre početka predstave. Hvala.");
 }
+
+function posaljien() {
+	alert("Congratulations, you've successfully sent in your reservation! Please arrive 30min before the production. Thank you!");
+}
