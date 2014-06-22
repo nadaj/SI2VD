@@ -1,4 +1,5 @@
 // JavaScript Document
+var ras = 0;
 function potvrdi() {
 	var tacni = 0;
 	
@@ -93,3 +94,4 @@ function potvrdien() {
 	
 	bootstrap_alert.test("*** Congratulations! You have " + tacni + " / 10 ***") ;
 }
+

@@ -2,6 +2,8 @@ String datum 	 = "";
 String vreme 	 = "";
 String predstava = "";
 String sala 	 = "";
+
+int ras = 0;
 function klik(dat,vre,pred,sal){
 	datum 		= dat;
 	vreme 		= vre;
@@ -16,3 +18,4 @@ function popuni(){
 	 document.pageForm.odg4.value = sala;
 
 }
+
