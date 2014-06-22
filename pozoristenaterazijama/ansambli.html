@@ -325,9 +325,37 @@
 		</div>
 	</div>
 	<!--MODAL-->
+    <div class="modal fade" id="rezer" role="dialog">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+                	<h4 class="kviz">Rezervacija </h4> 
+                </div>
+                <div class="modal-body">
+                	<form name="pageForm1" action="mailto:pozoristenaterazijama@example.com" method="post" enctype="text/plain">
+            			Broj karata: <input class="form-control" name="odg1" type="text" placeholder="Vrednost izmedju 1 i 50" /><br /><br />
+                    	Datum: <input class="form-control" name="odg2" type="text" placeholder="dd.mm.gggg" /><br /><br />
+                        Ime i prezime:<input class="form-control" name="odg3" type="text" placeholder="" /><br /><br />
+                        Kontakt telefon:<input class="form-control" name="odg4" type="text" placeholder=" " /><br /><br />
+                        E-mail: <input class="form-control" name="odg5" type="text" placeholder="" /><br /><br />
+                        Vreme: <input class="form-control" name="odg6" type="text" placeholder="hh:mm" /><br /><br />
+                        Predstava: <input class="form-control" name="odg7" type="text" placeholder="" /><br /><br />
+                        Sala: <input class="form-control" name="odg8" type="text" placeholder="Velika ili Kabare" /><br /><br />
+                    </form>
+                     <div id = "alert_placeholder"></div> 
+                <div class="modal-footer">
+                	<a class="btn btn-default" href="#" data-dismiss="modal">Odustani</a>
+					<a class="btn btn-primary" href="#" onClick="popuni1();posalji();">Potvrdi</a>
+				</div>
+			</div>
+		</div>
+	</div>
+    </div>
+    
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="js/jquery-1.10.0.min.js" type="text/javascript"></script>
 	<script src="js/bootstrap.js"></script>
     <script src="js/kviz.js"></script>
+    <script src="js/rezervacije.js"></script>
 </body>
 <!-- InstanceEnd --></html>

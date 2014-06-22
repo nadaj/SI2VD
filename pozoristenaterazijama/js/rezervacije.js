@@ -1,21 +1,16 @@
-String datum 	 = "";
-String vreme 	 = "";
-String predstava = "";
-String sala 	 = "";
 
-int ras = 0;
-function klik(dat,vre,pred,sal){
-	datum 		= dat;
-	vreme 		= vre;
-	predstava	= pred;
-	sala 		= sal;
+
+function popuni1(){
+
+if (document.pageForm1.odg1.value == "" && document.pageForm1.odg2.value == "" && document.pageForm1.odg3.value == "" && document.pageForm1.odg4.value == "" && document.pageForm1.odg5.value == "" && document.pageForm1.odg6.value == "" && document.pageForm1.odg7.value == "" && document.pageForm1.odg8.value == "") {
+		alert("Popunite sva polja!") ;
 }
-
-function popuni(){
-	document.pageForm.odg1.value = datum;
-	 document.pageForm.odg2.value = vreme;
-	 document.pageForm.odg3.value = predstava;
-	 document.pageForm.odg4.value = sala;
 
 }
 
+function popuni1en(){
+
+if (document.pageForm1.odg1.value == "" && document.pageForm1.odg2.value == "" && document.pageForm1.odg3.value == "" && document.pageForm1.odg4.value == "" && document.pageForm1.odg5.value == "" && document.pageForm1.odg6.value == "" && document.pageForm1.odg7.value == "" && document.pageForm1.odg8.value == "") {
+		alert("Please fill in the blanks!") ;
+}
+}
